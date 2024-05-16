@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"inicio","order":1,"parentId":0,"scrollX":810,"scrollY":448},
+{"id":2,"expanded":true,"name":"cabaña","order":2,"parentId":1,"scrollX":810,"scrollY":448},
+{"id":3,"expanded":true,"name":"almacen","order":3,"parentId":1,"scrollX":810,"scrollY":448}
+]
